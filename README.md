@@ -1,6 +1,6 @@
 # Hey, I'm Will McHenry
 
-**Senior Marketplace UX Researcher at Amazon**
+**Senior Monetization Researcher at Amazon**
 
 I'm a mixed-methods researcher who conducts foundational and evaluative research on emerging and current products. I combine quantitative and qualitative approaches to deliver actionable insights that drive product and business decisions.
 
