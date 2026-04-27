@@ -1,24 +1,21 @@
+[gemini-code-1777302705615.md](https://github.com/user-attachments/files/27131350/gemini-code-1777302705615.md)
 # Hey, I'm Will McHenry
 
-**Senior Monetization Researcher at Amazon**
+**Senior Monetization Researcher | Homebrew Developer & Product Manager**
 
-I'm a mixed-methods researcher who conducts foundational and evaluative research on emerging and current products. I combine quantitative and qualitative approaches to deliver actionable insights that drive product and business decisions.
+By day, I am a Senior Monetization Researcher at Amazon, leveraging mixed-methods to drive product strategy for Prime, Fire TV, and Amazon Business. 
 
-### What I Do
+Off the clock, I operate as a homebrew developer and technical product manager, focused on rapid prototyping and deploying zero-cost, scalable architectures. 
 
-- Lead large-scale consumer research for Amazon Business, Prime, and Fire TV
-- Design studies that bridge the gap between user behavior and business strategy
-- Transform complex data into clear, actionable recommendations
+### 🛠 Technical Stack & Workflow
+My development mandate is strict: utilize open-source frameworks and strictly free infrastructure to build robust solutions. 
 
-### Background
+* **Environment:** macOS rapid prototyping
+* **Focus:** Zero-cost deployments, scalable architecture, and AI-assisted development
 
-Before UX research, I worked in foreign policy and security analysis — studying Eastern Europe and Eurasia at organizations like PONARS Eurasia (GWU), SAIS Foreign Policy Institute, and CSIS. That world taught me how to ask better questions, navigate ambiguity, and communicate findings that move people to action.
+### 📊 Background
+Before pivoting to tech and monetization, I spent years in foreign policy and operational science, analyzing tactical decision-making and Eurasian security for organizations like CSIS and PONARS Eurasia. I apply that same analytical rigor to system architecture and product development.
 
-### Published Work
-
-- "An Early Operational Analysis of Russian-Supplied T-90s in Syria" — *The Journal of Slavic Military Studies*, 2020
-
-### Connect
-
-- [willmchenry27.github.io](https://willmchenry27.github.io)
-- [LinkedIn](https://linkedin.com/in/william-mchenry)
+### 🔗 Connect
+* [LinkedIn](https://www.linkedin.com/in/william-mchenry)
+* [Portfolio & Deployments](https://willmchenry27.github.io)
