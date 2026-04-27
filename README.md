@@ -1,4 +1,3 @@
-[gemini-code-1777302705615.md](https://github.com/user-attachments/files/27131350/gemini-code-1777302705615.md)
 # Hey, I'm Will McHenry
 
 **Senior Monetization Researcher | Homebrew Developer & Product Manager**
