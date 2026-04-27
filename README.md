@@ -11,7 +11,7 @@ My development mandate is strict: utilize open-source frameworks and strictly fr
 
 * **Environment:** macOS rapid prototyping
 * **Focus:** Zero-cost deployments, scalable architecture, and AI-assisted development
-* * **Agentic Workflows:** Claude Code, Codex, Cline
+* **Agentic Workflows:** Claude Code, Codex, Cline
 
 ### 📊 Background
 Before pivoting to tech and monetization, I spent years in foreign policy and operational science, analyzing tactical decision-making and Eurasian security for organizations like CSIS and PONARS Eurasia. I apply that same analytical rigor to system architecture and product development.
